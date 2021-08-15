@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "지지팍"
-  avatar           : "/assets/images/profile/programmer.png" # 프로필 이미지
+  avatar           : "/assets/images/profile/gigi.jpg" # 프로필 이미지
   bio              : "지지팍의 개발 블로그"
   location         : "Republic of Korea"
   email            : "asdsun07@gmail.com"

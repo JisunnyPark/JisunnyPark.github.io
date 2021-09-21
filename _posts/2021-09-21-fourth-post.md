@@ -89,18 +89,20 @@ bg: fore ground 프로세스를 back ground 프로세스로 전환하는 명령�
 3.	x
 4.	dd
 
+--
 1. e  : 커서가 위치한 단어의 맨 끝 부분으로 이동합니다. 단, 특수문자가 포함되어 있을 경우 그 다음 문자로 이동
 2. d  : 효과 없음
 3. x  : 현재 커서가 위치한 곳의 문자를 삭제
 4. dd : 현재 커서가 위치한 곳의 라인을 삭제
 
 @ 다음은 backup.tar 파일에 추가로 파일을 묶는 과정이다. ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?
-- # tar ( 괄호 ) backupltar lin.txt joon.c
+- tar ( 괄호 ) backupltar lin.txt joon.c
 1.	cvf
 2.	xvf
 3.	rvf
 4.	tvf
 
+--
 r 옵션 : (append) 파일 내의 기록에 다른 파일 내용을 추가로 묶음
 c 옵션 : (create) 새 파일을 만듦
 x 옵션 : (extract) 기록에서 파일을 발췌
@@ -212,7 +214,6 @@ x 프로토콜
 3.	netstat
 4.	route
 
-<문제 해설>
 ifconfig 는 인터페이스 별 inet(ip주소) netmask broadcast아이피 등의 정보가 출력됨
 etheool 은 etheool eth0(인터페이스명) 명령을 치면 해당 인터페이스의 속도(Speed: 1000Mb/s) 듀프렉스 등이 출력
 1

@@ -21,3 +21,12 @@ CBT 기출 오답 정리
 2.	xfs_mkfs
 3.	xfs.mkfs
 4.	mkfs.xfs
+
+<!-- 
+※파일 시스템 생성에 중심을 둠※
+
+mkfs= make file system
+
+→ xfs 파일 시스템을 생성하는 명령어이므로
+mkfs.xfs가 맞다. 
+-->
